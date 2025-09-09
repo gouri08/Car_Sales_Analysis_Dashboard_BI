@@ -1,4 +1,5 @@
 🚗 Car Sales Dashboard (Power BI)
+
 📌 Project Overview
 
 This project analyzes car sales data to uncover key insights into pricing, demand, and performance across brands, models, and features. The dashboard is built in Power BI and deployed on GitHub for easy access.
@@ -15,6 +16,7 @@ Compare sales across transmission types, car colors, and brands.
 
 Provide interactive filters for Car Brand, Model, Transmission, and Color.
 
+
 🛠️ Tools & Technologies
 
 Power BI – Data Cleaning, Modeling, and Visualization
@@ -22,6 +24,7 @@ Power BI – Data Cleaning, Modeling, and Visualization
 DAX – Measures for KPIs (Profit, PriceDiff, Cars Sold, etc.)
 
 GitHub – Project Hosting and Documentation
+
 
 📊 Key KPIs
 
@@ -39,6 +42,7 @@ Car Brand Count
 
 Cars Sold Count
 
+
 📈 Visualizations
 
 Price Analysis: Avg. Selling Price vs MMR by Car Brand.
@@ -50,6 +54,7 @@ Transmission Analysis: Avg. Selling Price by Transmission (Pie/Donut chart).
 Color Analysis: Avg. Selling Price by Exterior Color.
 
 KPIs Section: Revenue, Profit, Avg. Selling Price, Cars Sold, etc.
+
 
 📂 Project Files
 
